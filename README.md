@@ -29,24 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
 
-###
 
-<div align="left">
-  <a href="https://discordapp.com/users/1234159105698959456" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:telegramonly@yandex.ru" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/anytcp" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://deltafromx.github.io" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=my%20Website&logo=tryhackme&label=&color=88B6BC&logoColor=ffffff&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
-  </a>
-</div>
-
-###
 
 <img src="https://raw.githubusercontent.com/DeltaFromX/DeltaFromX/output/snake.svg" alt="Snake animation" />
 
